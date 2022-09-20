@@ -235,11 +235,11 @@ sup {
 }
 
 a {
-  color: #ffc800;
+  color: #00ff80;
   text-decoration: underline;
 }
 a:hover {
-  color: #cca000;
+  color: #0a00cc;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -272,7 +272,7 @@ pre code {
 
 code {
   font-size: 0.875em;
-  color: #d63384;
+  color: #33b5d6;
   word-wrap: break-word;
 }
 a > code {
